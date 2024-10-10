@@ -1,5 +1,5 @@
 ---
-title: "Découvrez l'équipe de Jardins Passion"
-meta_title: "Découvrez l'équipe de Jardins Passion"
-description: "Jardins Passion vous guide pour réussir votre potager. Conseils experts, astuces d'arrosage et bien plus pour des récoltes abondantes et saines."
+title: "Découvrez l'équipe de Petinesca"
+meta_title: "Découvrez l'équipe de Petinesca - Passionnés de Cuisine"
+description: "Petinesca vous guide dans l'art culinaire. Recettes expertes, astuces de cuisine et bien plus pour des plats savoureux et réussis."
 ---

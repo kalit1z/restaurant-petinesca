@@ -57,47 +57,48 @@ const Contact = ({ data }) => {
           <button className="btn btn-outline-primary">Envoyer</button>
         </form>
 
-        <div className="mt-10 text-center">
-          <h3 className="mb-4">Bienvenue sur Jardins Passions</h3>
-          <p className="mb-4">
-            Nous sommes ravis de vous accueillir sur notre site dédié à la passion du jardinage. Chez Jardins Passions, nous aimons aider les jardiniers, qu'ils soient débutants ou expérimentés, à cultiver leur passion et à faire fleurir leurs espaces verts.
-          </p>
-          <p className="mb-4">
-            Si vous avez des questions, des suggestions ou simplement envie de partager votre expérience de jardinage, n'hésitez pas à nous contacter. C'est toujours un plaisir pour nous d'échanger avec des passionnés comme vous !
-          </p>
-          <p className="mb-4">
-            Que vous ayez besoin de conseils sur le choix des plantes, des astuces pour l'entretien de votre jardin, ou des informations sur les dernières tendances en matière de jardinage écologique, notre équipe est là pour vous aider.
-          </p>
-          <p>
-            Ensemble, faisons de chaque espace vert un petit coin de paradis. Merci de faire partie de la communauté Jardins Passions !
-          </p>
-        </div>
+        <div>
+  <h3 className="mb-4">Bienvenue sur notre Site de Recettes Petinesca</h3>
+  <p className="mb-4">
+    Nous sommes ravis de vous accueillir sur notre site dédié à la gastronomie et aux recettes inspirantes. Sur Site de Recettes Petinesca, nous partageons notre passion pour la cuisine en vous offrant une variété de recettes délicieuses et faciles à préparer.
+  </p>
+  <p className="mb-4">
+    Si vous avez des questions sur nos recettes, nos ingrédients ou si vous souhaitez simplement partager vos créations avec nous, n'hésitez pas à nous contacter. Nous sommes toujours heureux d'échanger avec nos visiteurs !
+  </p>
+  <p className="mb-4">
+    Que vous cherchiez des idées de plats pour une occasion spéciale, des conseils sur des techniques de cuisine, ou des astuces pour des repas rapides et sains, notre équipe est là pour vous aider.
+  </p>
+  <p>
+    Ensemble, explorons le monde de la cuisine et créons des plats inoubliables. Merci de faire partie de la communauté Petinesca !
+  </p>
+</div>
 
-        <div className="mt-16">
-          <h3 className="mb-8 text-center">Foire Aux Questions</h3>
-          <div className="space-y-6">
-            <div>
-              <h4 className="mb-2 font-semibold">Comment puis-je devenir partenaire de Jardins Passions ?</h4>
-              <p>Pour devenir partenaire, veuillez nous contacter via le formulaire ci-dessus en précisant "Partenariat" dans le sujet. Nous examinerons votre demande et vous répondrons dans les plus brefs délais avec plus d'informations sur notre programme de partenariat.</p>
-            </div>
-            <div>
-              <h4 className="mb-2 font-semibold">Quel est le délai de réponse habituel ?</h4>
-              <p>Nous nous efforçons de répondre à toutes les demandes dans un délai de 48 heures ouvrables. Pour les questions urgentes, n'hésitez pas à nous contacter par téléphone.</p>
-            </div>
-            <div>
-              <h4 className="mb-2 font-semibold">Proposez-vous des consultations de jardinage personnalisées ?</h4>
-              <p>Oui, nous offrons des consultations personnalisées. Veuillez nous contacter avec les détails de votre projet de jardinage, et nous vous proposerons un rendez-vous pour discuter de vos besoins spécifiques.</p>
-            </div>
-            <div>
-              <h4 className="mb-2 font-semibold">Comment puis-je m'abonner à votre newsletter ?</h4>
-              <p>Vous pouvez vous abonner à notre newsletter directement depuis notre page d'accueil. Vous recevrez régulièrement des conseils de jardinage, des offres spéciales et des nouvelles sur nos derniers produits.</p>
-            </div>
-            <div>
-              <h4 className="mb-2 font-semibold">Organisez-vous des événements ou des ateliers de jardinage ?</h4>
-              <p>Oui, nous organisons régulièrement des ateliers et des événements. Consultez notre page "Événements" pour voir le calendrier à venir ou inscrivez-vous à notre newsletter pour être informé des prochaines dates.</p>
-            </div>
-          </div>
-        </div>
+<div className="mt-16">
+  <h3 className="mb-8 text-center">Foire Aux Questions</h3>
+  <div className="space-y-6">
+    <div>
+      <h4 className="mb-2 font-semibold">Comment puis-je trouver une recette spécifique sur le Site de Recettes Petinesca ?</h4>
+      <p>Vous pouvez naviguer à travers nos catégories de recettes ou utiliser notre barre de recherche pour trouver exactement ce que vous cherchez. Nous avons des recettes pour tous les goûts et toutes les occasions !</p>
+    </div>
+    <div>
+      <h4 className="mb-2 font-semibold">Quel est votre délai de réponse habituel pour les questions sur les recettes ?</h4>
+      <p>Nous nous efforçons de répondre à toutes les questions dans un délai de 24 heures. Si vous avez besoin d'une réponse plus rapide, n'hésitez pas à nous contacter directement par e-mail.</p>
+    </div>
+    <div>
+      <h4 className="mb-2 font-semibold">Proposez-vous des recettes adaptées à des régimes spéciaux (végétarien, sans gluten, etc.) ?</h4>
+      <p>Oui, nous avons une sélection de recettes adaptées à différents régimes alimentaires. Explorez nos options et trouvez des recettes délicieuses qui répondent à vos besoins spécifiques.</p>
+    </div>
+    <div>
+      <h4 className="mb-2 font-semibold">Comment puis-je être informé des nouvelles recettes et articles sur le Site de Recettes Petinesca ?</h4>
+      <p>Abonnez-vous à notre newsletter pour recevoir régulièrement des mises à jour sur nos dernières recettes, nos conseils de cuisine, et nos articles sur les tendances gastronomiques.</p>
+    </div>
+    <div>
+      <h4 className="mb-2 font-semibold">Puis-je suggérer une recette ou partager mes propres créations culinaires avec vous ?</h4>
+      <p>Absolument ! Nous adorons découvrir de nouvelles recettes et partager les créations de notre communauté. Envoyez-nous vos idées et vos recettes à travers notre formulaire de contact.</p>
+    </div>
+  </div>
+</div>
+
       </div>
     </section>
   );

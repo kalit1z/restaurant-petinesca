@@ -10,7 +10,7 @@
     },
     {
       "name": "En apprendre plus",
-      "url": "https://www.fastercook.fr/letter-potager"
+      "url": "https://www.fastercook.fr/cuisine"
     },
     {
       "name": "Catégories",
@@ -18,20 +18,16 @@
       "hasChildren": true,
       "children": [
         {
-          "name": "Planter",
-          "url": "/categories/planter-votre-potager"
+          "name": "Nos Entrées",
+          "url": "/categories/nos-entrees"
         },
         {
-          "name": "Entretenir",
-          "url": "/categories/entretenir-votre-potager"
+          "name": "Nos Plats",
+          "url": "/categories/nos-plats"
         },
         {
-          "name": "Récolter",
-          "url": "/categories/recolter-votre-potager"
-        },
-        {
-          "name": "Astuces...",
-          "url": "/categories/astuces-du-potager"
+          "name": "Nos Desserts",
+          "url": "/categories/nos-desserts"
         }
       ]
     }

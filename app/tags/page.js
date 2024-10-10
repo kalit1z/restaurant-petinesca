@@ -14,15 +14,15 @@ const formatTagName = (str) => {
 };
 
 const NewsletterCTA = () => (
-  <div style={{textAlign: "center", backgroundColor: "#f0f8f0", padding: "20px", margin: "30px 0", borderRadius: "8px"}}>
+  <div style={{textAlign: "center", backgroundColor: "#F3EAFF", padding: "20px", marginTop: "30px 0", borderRadius: "8px"}}>
     <p style={{fontSize: "24px", color: "#333333", marginBottom: "15px"}}>
-      <strong>Cultivez votre passion du jardinage !</strong>
+      <strong>Révolutionnez Votre Cuisine : Maîtrisez l'Art du Pain au Levain en 24 Heures !</strong>
     </p>
     <p style={{fontSize: "16px", color: "#555555", marginBottom: "20px"}}>
-      Recevez nos meilleurs conseils de jardinage directement dans votre boîte mail.
+      Découvrez les Secrets d'un Pain Savoureux, Sain et Fait Maison
     </p>
-    <a href="https://www.fastercook.fr/letter-potager" target="_blank" rel="noopener noreferrer" style={{display: "inline-block", backgroundColor: "#099141", color: "white", padding: "10px 20px", textDecoration: "none", borderRadius: "5px", fontWeight: "bold"}}>
-      S'inscrire à la newsletter
+    <a href="https://www.fastercook.fr/cuisine" target="_blank" rel="noopener noreferrer" style={{display: "inline-block", backgroundColor: "#D072EA", color: "white", padding: "10px 20px", textDecoration: "none", borderRadius: "5px", fontWeight: "bold"}}>
+      Je Veux Révéler le Boulanger en Moi !
     </a>
   </div>
 );
@@ -33,14 +33,14 @@ const Tags = async () => {
   return (
     <>
       <SeoMeta 
-        title={"Tags - Explorez nos sujets de jardinage"}
-        description="Découvrez tous les sujets abordés dans notre blog de jardinage. Des conseils pratiques aux techniques avancées, trouvez l'inspiration pour votre jardin."
+        title={"Tags - Explorez nos catégories de recettes"}
+        description="Découvrez toutes les catégories de recettes sur Petinesca. Des plats rapides aux recettes gourmandes, trouvez l'inspiration pour vos prochains repas."
         noindex={true}
         nofollow={true}
       />
       <section className="section">
         <div className="container text-center">
-          {markdownify("Explorez nos sujets de jardinage", "h1", "h2 mb-16")}
+          {markdownify("Explorez nos sujets de cuisine", "h1", "h2 mb-16")}
           <ul className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4 mb-16">
             {tags.map((tag, i) => (
               <li key={`tag-${i}`} className="mb-4">

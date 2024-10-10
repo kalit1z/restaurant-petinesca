@@ -1,12 +1,12 @@
 {
   "site": {
-    "title": "Jardins Passion | Expert en Potagers",
-    "base_url": "/",
+    "title": "Petinesca | Recettes de Cuisine Inspirantes",
+    "base_url": "https://www.petinesca-restaurant.ch/",
     "favicon": "/images/favicon.png",
     "logo": "/images/logo.png",
     "logo_width": "234",
     "logo_height": "50",
-    "logo_text": "Jardins Passion"
+    "logo_text": "Petinesca restaurant"
   },
 
   "settings": {
@@ -18,12 +18,12 @@
   "params": {
     "tag_manager_id": "",
     "contact_form_action": "https://formspree.io/f/xkndjywo",
-    "copyright": "© 2024 Jardins Passion. Tous droits réservés."
+    "copyright": "© 2024 Petinesca. Tous droits réservés."
   },
 
   "metadata": {
-    "meta_author": "Équipe Jardins Passion",
+    "meta_author": "Équipe Petinesca",
     "meta_image": "/images/favicon.png",
-    "meta_description": "Jardins Passion : votre guide expert pour créer et entretenir un potager productif. Conseils, astuces et techniques pour cultiver vos propres fruits et légumes."
+    "meta_description": "Petinesca : votre source d'inspiration culinaire. Découvrez une variété de recettes délicieuses, des astuces de cuisine et des techniques pour enrichir vos compétences culinaires."
   }
 }

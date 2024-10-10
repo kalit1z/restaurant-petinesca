@@ -13,7 +13,7 @@ const MDXContent = ({ content }) => {
   // Définir un composant personnalisé pour les liens
   const customComponents = {
     ...shortcodes,
-    a: (props) => <a {...props} className="text-green-500 hover:text-green-700" />,
+    a: (props) => <a {...props} className="text-purple-500 hover:text-purple-700" />,
   };
 
   return (
