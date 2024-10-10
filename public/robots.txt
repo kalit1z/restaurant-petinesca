@@ -4,7 +4,7 @@ Allow: /
 Disallow: /home
 
 # Host
-Host: https://www.jardins-passion.fr
+Host: https://www.petinesca-restaurant.ch
 
 # Sitemaps
-Sitemap: https://www.jardins-passion.fr/sitemap.xml
+Sitemap: https://www.petinesca-restaurant.ch/sitemap.xml
