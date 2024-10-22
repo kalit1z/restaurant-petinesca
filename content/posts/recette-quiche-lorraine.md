@@ -7,7 +7,7 @@ image: "/images/posts/quiche/quiche-lorraine-slice.webp"
 imageAlt: "Tranche de quiche lorraine parfaitement dorée, révélant sa garniture crémeuse parsemée de lardons fumés, servie sur une assiette en porcelaine fine"
 categories: ["Nos Plats", "Recettes du moment"]
 authors: ["Bekim Alili"]
-tags: ["quiche lorraine", "cuisine francaise"]
+tags: []
 draft: false
 ---
 

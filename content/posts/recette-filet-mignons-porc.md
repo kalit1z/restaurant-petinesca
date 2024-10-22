@@ -7,7 +7,7 @@ image: "/images/posts/filets-mignons-porc/filets-mignons-champignons.webp"
 imageAlt: "Filets mignons de porc à la crème et aux champignons, dressés avec élégance sur une assiette en porcelaine blanche"
 categories: ["Nos Plats", "Recettes du moment"]
 authors: ["Bekim Alili"]
-tags: ["filets mignons"]
+tags: []
 draft: false
 ---
 

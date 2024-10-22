@@ -7,7 +7,7 @@ image: "/images/posts/boeuf-bourguignon/boeuf-bourguignon-servi.webp"
 imageAlt: "Assiette de bœuf bourguignon fumant, accompagné de pommes de terre, servi dans un cocotte en fonte sur une table rustique"
 categories: ["Nos Plats", "Recettes du moment"]
 authors: ["Fiona Alili"]
-tags: ["bœuf bourguignon", "cuisine francaise"]
+tags: []
 draft: false
 ---
 

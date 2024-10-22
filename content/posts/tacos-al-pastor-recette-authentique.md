@@ -7,7 +7,7 @@ image: "/images/posts/tacos-al-pastor/tacos-al-pastor-assiette.webp"
 imageAlt: "Assiette de tacos al pastor fraîchement préparés, garnis d'ananas et de coriandre"
 categories: ["Nos Plats"]
 authors: ["Bekim Alili"]
-tags: ["tacos al pastor", "cuisine mexicaine"]
+tags: []
 draft: false
 ---
 

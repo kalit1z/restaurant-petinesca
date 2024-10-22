@@ -7,7 +7,7 @@ image: "/images/posts/croissants-jambon/croissants-jambon-plat.webp"
 imageAlt: "Assiette de croissants au jambon dorés et croustillants"
 categories: ["Nos Entrees", "Recettes du moment"]
 authors: ["Fiona Alili"]
-tags: ["croissants au jambon", "cuisine francaise"]
+tags: []
 draft: false
 ---
 

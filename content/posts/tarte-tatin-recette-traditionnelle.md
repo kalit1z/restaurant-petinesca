@@ -7,7 +7,7 @@ image: "/images/posts/tarte-tatin/tarte-tatin-slice.webp"
 imageAlt: "Tranche de tarte Tatin parfaitement caramélisée, révélant des pommes fondantes sur une pâte dorée et croustillante"
 categories: ["Nos Desserts"]
 authors: ["Fiona Alili"]
-tags: ["tarte tatin", "patisserie francaise"]
+tags: []
 draft: false
 ---
 

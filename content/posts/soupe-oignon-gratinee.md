@@ -7,7 +7,7 @@ image: "/images/posts/soupe-oignon/soupe-oignon-gratinee.webp"
 imageAlt: "Bol de soupe à l'oignon gratinée fumante, avec son gratin de fromage doré"
 categories: ["Nos Entrees"]
 authors: ["Fiona Alili"]
-tags: ["soupe oignon", "cuisine francaise"]
+tags: []
 draft: false
 ---
 

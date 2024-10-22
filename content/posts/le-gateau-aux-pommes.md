@@ -7,7 +7,7 @@ image: "/images/posts/gateau-pommes/gateau-pommes-tranche.webp"
 imageAlt: "Tranche de gâteau aux pommes parfaitement dorée, révélant des morceaux de pommes fondants, servie sur une assiette en porcelaine fine"
 categories: ["Nos Desserts", "Recettes du moment"]
 authors: ["Fiona Alili"]
-tags: ["gateau aux pommes", "patisserie francaise"]
+tags: []
 draft: false
 ---
 

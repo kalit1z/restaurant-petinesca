@@ -7,7 +7,7 @@ image: "/images/posts/guacamole/guacamole-bol-nachos.webp"
 imageAlt: "Bol de guacamole frais et crémeux accompagné de chips de tortilla colorées"
 categories: ["Nos Entrees", "Recettes du moment"]
 authors: ["Fiona Alili"]
-tags: ["guacamole", "cuisine mexicaine"]
+tags: []
 draft: false
 ---
 
