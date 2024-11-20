@@ -64,7 +64,7 @@ Pour 6 personnes :
 
 ## Rôti de chapon farci à la cocotte
 
-<img src="/images/posts/chapon-roti/chapon-roti.webp" alt=", entourée d'ingrédients frais et d'un verre de vin rouge" width="500" height="300" style={{ display: 'block', margin: 'auto', borderRadius: '10px' }} />
+<img src="/images/posts/roti-chapon/chapon-roti.webp" alt=", entourée d'ingrédients frais et d'un verre de vin rouge" width="500" height="300" style={{ display: 'block', margin: 'auto', borderRadius: '10px' }} />
 
 ### Farce traditionnelle
 
